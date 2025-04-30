@@ -147,6 +147,28 @@ function Dashboard() {
 
   const resultAvailable = result.matchPercentage !== null;
 
+  const calculateCircleProps = () => {
+    // Base values for the largest screen
+    let size = 150;
+
+    // Adjust size based on window width
+    if (window.innerWidth <= 575) {
+      size = 80;
+    } else if (window.innerWidth <= 767) {
+      size = 100;
+    } else if (window.innerWidth <= 991) {
+      size = 120;
+    }
+
+    const center = size / 2;
+    const radius = (size / 2) * 0.9; // 90% of half the size
+    const circumference = 2 * Math.PI * radius;
+
+    return { size, center, radius, circumference };
+  };
+
+  const circleProps = calculateCircleProps();
+
   return (
     <div className="dashboard-container">
       {loading && <Loader />}
@@ -154,16 +176,21 @@ function Dashboard() {
         {resultAvailable && (
           <div className="match-score">
             <div className="circular-progress">
-              <svg>
-                <circle className="background" cx="75" cy="75" r="70" />
+              <svg viewBox={`0 0 ${circleProps.size} ${circleProps.size}`}>
+                <circle
+                  className="background"
+                  cx={circleProps.center}
+                  cy={circleProps.center}
+                  r={circleProps.radius}
+                  strokeDasharray={circleProps.circumference}
+                />
                 <circle
                   className="progress"
-                  cx="75"
-                  cy="75"
-                  r="70"
-                  style={{
-                    strokeDashoffset: 440 - (440 * result.matchPercentage) / 100
-                  }}
+                  cx={circleProps.center}
+                  cy={circleProps.center}
+                  r={circleProps.radius}
+                  strokeDasharray={circleProps.circumference}
+                  strokeDashoffset={`${circleProps.circumference * (1 - result.matchPercentage / 100)}px`}
                 />
               </svg>
               <div className="match-score-value">{result.matchPercentage}%</div>

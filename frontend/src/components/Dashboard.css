@@ -177,6 +177,7 @@ textarea {
   border: 1px solid rgba(0, 255, 198, 0.2);
 }
 
+/* Base circular progress styles */
 .circular-progress {
   position: relative;
   width: 150px;
@@ -193,7 +194,7 @@ textarea {
   fill: none;
   stroke-width: 8;
   stroke-linecap: round;
-  stroke-dasharray: 440;
+  transform-origin: center;
 }
 
 .circular-progress .background {
@@ -202,7 +203,41 @@ textarea {
 
 .circular-progress .progress {
   stroke: var(--primary);
-  transition: stroke-dashoffset 1s ease;
+  transition: stroke-dashoffset 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Responsive circular progress */
+@media (max-width: 991px) {
+  .circular-progress {
+    width: 120px;
+    height: 120px;
+  }
+
+  .circular-progress circle {
+    stroke-width: 7;
+  }
+}
+
+@media (max-width: 767px) {
+  .circular-progress {
+    width: 100px;
+    height: 100px;
+  }
+
+  .circular-progress circle {
+    stroke-width: 6;
+  }
+}
+
+@media (max-width: 575px) {
+  .circular-progress {
+    width: 80px;
+    height: 80px;
+  }
+
+  .circular-progress circle {
+    stroke-width: 5;
+  }
 }
 
 .match-score-value {
@@ -490,4 +525,213 @@ textarea::-webkit-scrollbar-thumb:hover {
 @keyframes heartbeat {
   0%, 100% { transform: scale(1); }
   50% { transform: scale(1.1); }
+}
+
+/* Add these responsive styles at the end of your Dashboard.css */
+
+/* Large screens (1200px and up) */
+@media (min-width: 1200px) {
+  .dashboard-container {
+    gap: 2rem;
+    padding: 0 2rem;
+  }
+}
+
+/* Medium screens (992px to 1199px) */
+@media (max-width: 1199px) {
+  .dashboard-container {
+    padding: 0 1.5rem;
+    gap: 1.5rem;
+  }
+
+  .sidebar {
+    width: 280px;
+  }
+
+  .match-score {
+    flex-direction: row;
+    padding: 1.5rem;
+  }
+
+  .circular-progress {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+/* Small screens (768px to 991px) */
+@media (max-width: 991px) {
+  .dashboard-container {
+    flex-direction: column;
+    padding: 0 1rem;
+  }
+
+  .input-container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    margin-bottom: 2rem;
+  }
+
+  .sidebar.collapsed {
+    max-height: 0;
+    margin: 0;
+  }
+
+  .sidebar-toggle {
+    top: auto;
+    bottom: 20px;
+    right: 20px;
+  }
+
+  textarea {
+    min-height: 250px;
+  }
+
+  .match-score {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5rem;
+  }
+
+  .match-score-details {
+    text-align: center;
+  }
+}
+
+/* Extra small screens (576px to 767px) */
+@media (max-width: 767px) {
+  .dashboard-container {
+    margin: 1rem auto;
+  }
+
+  .form-section {
+    padding: 1rem;
+  }
+
+  .input-container {
+    gap: 1rem;
+  }
+
+  .input-group {
+    padding: 1rem;
+  }
+
+  textarea {
+    min-height: 200px;
+  }
+
+  .circular-progress {
+    width: 100px;
+    height: 100px;
+  }
+
+  .match-score {
+    padding: 1rem;
+  }
+
+  .match-score-value {
+    font-size: 1.5rem;
+  }
+
+  .keyword-list {
+    padding: 1rem;
+  }
+}
+
+/* Mobile screens (up to 575px) */
+@media (max-width: 575px) {
+  .dashboard-container {
+    margin: 0.5rem auto;
+  }
+
+  .form-section {
+    padding: 0.75rem;
+  }
+
+  .match-score {
+    margin-bottom: 1rem;
+  }
+
+  .input-group h3 {
+    font-size: 0.9rem;
+  }
+
+  textarea {
+    font-size: 0.85rem;
+    min-height: 150px;
+  }
+
+  .upload-icon {
+    width: 35px;
+    height: 35px;
+  }
+
+  .form-section button {
+    width: 100%;
+    height: 45px;
+    font-size: 0.9rem;
+    margin: 1rem auto;
+  }
+
+  .match-score-value {
+    font-size: 1.25rem;
+  }
+
+  .match-score-details h3 {
+    font-size: 1.1rem;
+  }
+
+  .match-score-details p {
+    font-size: 0.85rem;
+  }
+
+  .keyword-list {
+    margin-bottom: 1rem;
+  }
+
+  .keyword-list li {
+    font-size: 0.85rem;
+    padding: 0.35rem 0.75rem;
+  }
+}
+
+/* Handle tall screens */
+@media (min-height: 800px) {
+  .sidebar {
+    height: calc(100vh - 6rem);
+  }
+
+  textarea {
+    min-height: 350px;
+  }
+}
+
+/* For devices with hover capability */
+@media (hover: hover) {
+  .keyword-list li:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 255, 198, 0.15);
+  }
+
+  .upload-icon:hover {
+    transform: translateY(-2px) scale(1.05);
+  }
+
+  .sidebar-toggle:hover {
+    transform: translateY(-50%) scale(1.1);
+  }
+}
+
+/* Dark mode preference */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #121212;
+    --surface: #1E1E1E;
+  }
 }
