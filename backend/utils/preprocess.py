@@ -1,8 +1,16 @@
 import re
 import os
 import json
+import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+
+# Download nltk data
+try:
+    nltk.data.find('corpora/stopwords')
+except LookupError:
+    nltk.download('stopwords', quiet=True)
+
 # Load English stopwords once
 stop_words = set(stopwords.words('english'))
 stemmer = PorterStemmer()
