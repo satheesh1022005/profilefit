@@ -1,0 +1,7652 @@
+2025-04-29 09:53:42,890 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 09:53:42,890 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 09:53:42,901 - INFO -  * Restarting with stat
+2025-04-29 09:53:46,234 - WARNING -  * Debugger is active!
+2025-04-29 09:53:46,259 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 09:55:59,609 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 09:56:00,195 - INFO -  * Restarting with stat
+2025-04-29 09:56:04,855 - WARNING -  * Debugger is active!
+2025-04-29 09:56:04,877 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 09:56:18,716 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\model\\matching.py', reloading
+2025-04-29 09:56:19,048 - INFO -  * Restarting with stat
+2025-04-29 10:01:39,495 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 10:01:39,496 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 10:01:39,501 - INFO -  * Restarting with stat
+2025-04-29 10:01:42,925 - WARNING -  * Debugger is active!
+2025-04-29 10:01:42,986 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:03:56,626 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 10:03:56,968 - INFO -  * Restarting with stat
+2025-04-29 10:04:01,591 - WARNING -  * Debugger is active!
+2025-04-29 10:04:01,610 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:05:33,402 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 10:05:33,717 - INFO -  * Restarting with stat
+2025-04-29 10:05:36,989 - WARNING -  * Debugger is active!
+2025-04-29 10:05:37,001 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:07:17,548 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\model\\matching.py', reloading
+2025-04-29 10:07:17,881 - INFO -  * Restarting with stat
+2025-04-29 10:07:22,423 - WARNING -  * Debugger is active!
+2025-04-29 10:07:22,438 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:07:38,659 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\model\\matching.py', reloading
+2025-04-29 10:07:39,044 - INFO -  * Restarting with stat
+2025-04-29 10:07:43,006 - WARNING -  * Debugger is active!
+2025-04-29 10:07:43,019 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:07:57,715 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 10:07:57,715 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 10:07:57,722 - INFO -  * Restarting with stat
+2025-04-29 10:08:00,977 - WARNING -  * Debugger is active!
+2025-04-29 10:08:00,994 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:08:04,877 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for AI projects. | Match: 37.8%
+2025-04-29 10:08:04,878 - INFO - 127.0.0.1 - - [29/Apr/2025 10:08:04] "POST /predict HTTP/1.1" 200 -
+2025-04-29 10:15:27,873 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\test.py', reloading
+2025-04-29 10:15:28,911 - INFO -  * Restarting with stat
+2025-04-29 10:15:33,277 - WARNING -  * Debugger is active!
+2025-04-29 10:15:33,298 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:17:45,175 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:17:45,614 - INFO -  * Restarting with stat
+2025-04-29 10:17:51,290 - WARNING -  * Debugger is active!
+2025-04-29 10:17:51,308 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:18:22,259 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 10:18:22,682 - INFO -  * Restarting with stat
+2025-04-29 10:18:28,085 - WARNING -  * Debugger is active!
+2025-04-29 10:18:28,100 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:18:33,487 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:18:33,840 - INFO -  * Restarting with stat
+2025-04-29 10:18:38,175 - WARNING -  * Debugger is active!
+2025-04-29 10:18:38,186 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:18:43,521 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 10:18:43,897 - INFO -  * Restarting with stat
+2025-04-29 10:18:48,090 - WARNING -  * Debugger is active!
+2025-04-29 10:18:48,169 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:18:53,530 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 10:18:53,891 - INFO -  * Restarting with stat
+2025-04-29 10:18:58,054 - WARNING -  * Debugger is active!
+2025-04-29 10:18:58,068 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:19:15,742 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 10:19:16,209 - INFO -  * Restarting with stat
+2025-04-29 10:19:24,079 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 10:19:24,079 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 10:19:24,082 - INFO -  * Restarting with stat
+2025-04-29 10:19:28,148 - WARNING -  * Debugger is active!
+2025-04-29 10:19:28,161 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:19:33,107 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for AI projects. | Match: 50.71%
+2025-04-29 10:19:33,109 - INFO - 127.0.0.1 - - [29/Apr/2025 10:19:33] "POST /predict HTTP/1.1" 200 -
+2025-04-29 10:19:55,759 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for Machine Learning. | Match: 84.52%
+2025-04-29 10:19:55,760 - INFO - 127.0.0.1 - - [29/Apr/2025 10:19:55] "POST /predict HTTP/1.1" 200 -
+2025-04-29 10:20:04,215 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\train_vectorizer.py', reloading
+2025-04-29 10:20:04,574 - INFO -  * Restarting with stat
+2025-04-29 10:20:08,722 - WARNING -  * Debugger is active!
+2025-04-29 10:20:08,734 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:21:39,829 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:21:40,238 - INFO -  * Restarting with stat
+2025-04-29 10:21:45,971 - WARNING -  * Debugger is active!
+2025-04-29 10:21:45,985 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:22:31,592 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-29 10:22:32,023 - INFO -  * Restarting with stat
+2025-04-29 10:22:37,762 - WARNING -  * Debugger is active!
+2025-04-29 10:22:37,781 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:22:38,205 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-29 10:22:38,575 - INFO -  * Restarting with stat
+2025-04-29 10:22:43,161 - WARNING -  * Debugger is active!
+2025-04-29 10:22:43,181 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:28:59,253 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-29 10:29:00,860 - INFO -  * Restarting with stat
+2025-04-29 10:29:09,158 - WARNING -  * Debugger is active!
+2025-04-29 10:29:09,178 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:29:33,702 - INFO - 127.0.0.1 - - [29/Apr/2025 10:29:33] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:31:05,772 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:31:06,265 - INFO -  * Restarting with stat
+2025-04-29 10:31:11,702 - WARNING -  * Debugger is active!
+2025-04-29 10:31:11,718 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:31:16,003 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:31:16,423 - INFO -  * Restarting with stat
+2025-04-29 10:31:21,114 - WARNING -  * Debugger is active!
+2025-04-29 10:31:21,128 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:31:22,323 - INFO - 127.0.0.1 - - [29/Apr/2025 10:31:22] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:31:44,912 - INFO - 127.0.0.1 - - [29/Apr/2025 10:31:44] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:32:38,398 - INFO - 127.0.0.1 - - [29/Apr/2025 10:32:38] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:33:23,669 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:33:24,346 - INFO -  * Restarting with stat
+2025-04-29 10:33:30,124 - WARNING -  * Debugger is active!
+2025-04-29 10:33:30,142 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:33:30,385 - INFO - 127.0.0.1 - - [29/Apr/2025 10:33:30] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:33:47,017 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 10:33:47,018 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 10:33:47,021 - INFO -  * Restarting with stat
+2025-04-29 10:33:51,161 - WARNING -  * Debugger is active!
+2025-04-29 10:33:51,171 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:33:51,624 - INFO - 127.0.0.1 - - [29/Apr/2025 10:33:51] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:34:04,866 - INFO - 127.0.0.1 - - [29/Apr/2025 10:34:04] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:34:49,625 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:34:49,967 - INFO -  * Restarting with stat
+2025-04-29 10:34:54,158 - WARNING -  * Debugger is active!
+2025-04-29 10:34:54,171 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:35:04,458 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:35:05,048 - INFO -  * Restarting with stat
+2025-04-29 10:35:09,502 - WARNING -  * Debugger is active!
+2025-04-29 10:35:09,513 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:35:12,595 - INFO - 127.0.0.1 - - [29/Apr/2025 10:35:12] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:35:59,320 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:35:59,788 - INFO -  * Restarting with stat
+2025-04-29 10:36:05,063 - WARNING -  * Debugger is active!
+2025-04-29 10:36:05,081 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:36:05,399 - INFO - 127.0.0.1 - - [29/Apr/2025 10:36:05] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:36:23,822 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:36:24,246 - INFO -  * Restarting with stat
+2025-04-29 10:36:29,467 - WARNING -  * Debugger is active!
+2025-04-29 10:36:29,485 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:36:29,739 - INFO - 127.0.0.1 - - [29/Apr/2025 10:36:29] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:36:36,114 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:36:36,529 - INFO -  * Restarting with stat
+2025-04-29 10:36:41,788 - WARNING -  * Debugger is active!
+2025-04-29 10:36:41,806 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:36:42,158 - INFO - 127.0.0.1 - - [29/Apr/2025 10:36:42] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:36:48,846 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:36:49,443 - INFO -  * Restarting with stat
+2025-04-29 10:36:54,789 - WARNING -  * Debugger is active!
+2025-04-29 10:36:54,808 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:36:55,188 - INFO - 127.0.0.1 - - [29/Apr/2025 10:36:55] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:37:01,043 - INFO - 127.0.0.1 - - [29/Apr/2025 10:37:01] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:38:08,109 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:38:08,727 - INFO -  * Restarting with stat
+2025-04-29 10:38:14,253 - WARNING -  * Debugger is active!
+2025-04-29 10:38:14,271 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:38:24,141 - INFO - 127.0.0.1 - - [29/Apr/2025 10:38:24] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:39:10,115 - INFO - 127.0.0.1 - - [29/Apr/2025 10:39:10] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:41:42,418 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 10:41:42,780 - INFO -  * Restarting with stat
+2025-04-29 10:41:47,058 - WARNING -  * Debugger is active!
+2025-04-29 10:41:47,073 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 10:41:47,402 - INFO - 127.0.0.1 - - [29/Apr/2025 10:41:47] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:41:51,310 - INFO - 127.0.0.1 - - [29/Apr/2025 10:41:51] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:41:52,615 - INFO - 127.0.0.1 - - [29/Apr/2025 10:41:52] "POST /extract HTTP/1.1" 200 -
+2025-04-29 10:41:53,898 - INFO - 127.0.0.1 - - [29/Apr/2025 10:41:53] "POST /extract HTTP/1.1" 200 -
+2025-04-29 11:52:13,610 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-29 11:52:16,572 - INFO -  * Restarting with stat
+2025-04-29 11:52:23,496 - WARNING -  * Debugger is active!
+2025-04-29 11:52:23,528 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 11:52:32,863 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-29 11:52:33,368 - INFO -  * Restarting with stat
+2025-04-29 11:52:38,883 - WARNING -  * Debugger is active!
+2025-04-29 11:52:38,901 - INFO -  * Debugger PIN: 126-433-147
+2025-04-29 11:52:40,010 - INFO - 127.0.0.1 - - [29/Apr/2025 11:52:40] "POST /extract HTTP/1.1" 200 -
+2025-04-29 11:53:17,983 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for AI projects. | Match: 50.71%
+2025-04-29 11:53:17,984 - INFO - 127.0.0.1 - - [29/Apr/2025 11:53:17] "POST /predict HTTP/1.1" 200 -
+2025-04-29 11:53:21,090 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for AI projects. | Match: 50.71%
+2025-04-29 11:53:21,090 - INFO - 127.0.0.1 - - [29/Apr/2025 11:53:21] "POST /predict HTTP/1.1" 200 -
+2025-04-29 11:53:22,601 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for AI projects. | Match: 50.71%
+2025-04-29 11:53:22,601 - INFO - 127.0.0.1 - - [29/Apr/2025 11:53:22] "POST /predict HTTP/1.1" 200 -
+2025-04-29 11:53:30,300 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for Machine projects. | Match: 67.61%
+2025-04-29 11:53:30,301 - INFO - 127.0.0.1 - - [29/Apr/2025 11:53:30] "POST /predict HTTP/1.1" 200 -
+2025-04-29 11:53:35,263 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for Machine Learning. projects. | Match: 77.15%
+2025-04-29 11:53:35,263 - INFO - 127.0.0.1 - - [29/Apr/2025 11:53:35] "POST /predict HTTP/1.1" 200 -
+2025-04-29 11:53:48,004 - INFO - Resume: I am a Computer Science student skilled in Python, ReactJS, and Machine Learning. | Opportunity: Looking for interns skilled in Python and ReactJS for Machine Learning. projects. Computer sciend | Match: 85.71%
+2025-04-29 11:53:48,006 - INFO - 127.0.0.1 - - [29/Apr/2025 11:53:48] "POST /predict HTTP/1.1" 200 -
+2025-04-30 09:19:11,550 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 09:19:11,551 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 09:19:11,555 - INFO -  * Restarting with stat
+2025-04-30 09:19:17,259 - WARNING -  * Debugger is active!
+2025-04-30 09:19:17,273 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:25:31,217 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-30 09:25:32,171 - INFO -  * Restarting with stat
+2025-04-30 09:29:05,810 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 09:29:05,811 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 09:29:05,818 - INFO -  * Restarting with stat
+2025-04-30 09:29:11,214 - WARNING -  * Debugger is active!
+2025-04-30 09:29:11,233 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:30:08,943 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-30 09:30:09,373 - INFO -  * Restarting with stat
+2025-04-30 09:30:15,095 - WARNING -  * Debugger is active!
+2025-04-30 09:30:15,106 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:31:31,392 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-30 09:31:31,780 - INFO -  * Restarting with stat
+2025-04-30 09:31:36,589 - WARNING -  * Debugger is active!
+2025-04-30 09:31:36,600 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:33:10,572 - INFO - 127.0.0.1 - - [30/Apr/2025 09:33:10] "[35m[1mPOST /missing_keywords HTTP/1.1[0m" 500 -
+2025-04-30 09:33:26,581 - INFO - 127.0.0.1 - - [30/Apr/2025 09:33:26] "[35m[1mPOST /missing_keywords HTTP/1.1[0m" 500 -
+2025-04-30 09:37:38,049 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-30 09:37:39,165 - INFO -  * Restarting with stat
+2025-04-30 09:37:45,136 - WARNING -  * Debugger is active!
+2025-04-30 09:37:45,155 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:37:45,381 - INFO - Missing keywords from Resume: ['candid', 'docker', 'learn', 'look', 'sql', 'machin']
+2025-04-30 09:37:45,382 - INFO - 127.0.0.1 - - [30/Apr/2025 09:37:45] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:38:23,896 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 09:38:23,897 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 09:38:23,900 - INFO -  * Restarting with stat
+2025-04-30 09:38:29,680 - WARNING -  * Debugger is active!
+2025-04-30 09:38:29,692 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:40:52,286 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-30 09:40:52,706 - INFO -  * Restarting with stat
+2025-04-30 09:40:58,316 - WARNING -  * Debugger is active!
+2025-04-30 09:40:58,328 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:41:36,042 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-30 09:41:36,488 - INFO -  * Restarting with stat
+2025-04-30 09:44:32,340 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 09:44:32,340 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 09:44:32,345 - INFO -  * Restarting with stat
+2025-04-30 09:44:37,318 - WARNING -  * Debugger is active!
+2025-04-30 09:44:37,337 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:44:38,650 - INFO - 127.0.0.1 - - [30/Apr/2025 09:44:38] "[35m[1mPOST /missing_keywords HTTP/1.1[0m" 500 -
+2025-04-30 09:48:54,517 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-30 09:48:54,948 - INFO -  * Restarting with stat
+2025-04-30 09:49:00,707 - WARNING -  * Debugger is active!
+2025-04-30 09:49:00,716 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:49:02,405 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-30 09:49:02,781 - INFO -  * Restarting with stat
+2025-04-30 09:49:07,586 - WARNING -  * Debugger is active!
+2025-04-30 09:49:07,597 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:49:20,223 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-30 09:49:20,667 - INFO -  * Restarting with stat
+2025-04-30 09:49:25,323 - WARNING -  * Debugger is active!
+2025-04-30 09:49:25,333 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:49:25,558 - INFO - Missing keywords from Resume: ['sql', 'machine learning', 'docker']
+2025-04-30 09:49:25,559 - INFO - 127.0.0.1 - - [30/Apr/2025 09:49:25] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:50:08,251 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 09:50:08,252 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 09:50:08,256 - INFO -  * Restarting with stat
+2025-04-30 09:50:14,780 - WARNING -  * Debugger is active!
+2025-04-30 09:50:14,811 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:52:57,207 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\utils\\preprocess.py', reloading
+2025-04-30 09:52:57,615 - INFO -  * Restarting with stat
+2025-04-30 09:53:03,055 - WARNING -  * Debugger is active!
+2025-04-30 09:53:03,069 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:54:04,122 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:54:04,124 - INFO - 127.0.0.1 - - [30/Apr/2025 09:54:04] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:54:11,074 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:54:11,075 - INFO - 127.0.0.1 - - [30/Apr/2025 09:54:11] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:54:18,312 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker', 'css']
+2025-04-30 09:54:18,312 - INFO - 127.0.0.1 - - [30/Apr/2025 09:54:18] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:54:24,523 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:54:24,524 - INFO - 127.0.0.1 - - [30/Apr/2025 09:54:24] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:54:28,550 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:54:28,551 - INFO - 127.0.0.1 - - [30/Apr/2025 09:54:28] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:55:00,964 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:55:00,966 - INFO - 127.0.0.1 - - [30/Apr/2025 09:55:00] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:55:08,845 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:55:08,845 - INFO - 127.0.0.1 - - [30/Apr/2025 09:55:08] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:55:09,853 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:55:09,854 - INFO - 127.0.0.1 - - [30/Apr/2025 09:55:09] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:55:10,990 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:55:10,991 - INFO - 127.0.0.1 - - [30/Apr/2025 09:55:10] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:55:19,410 - INFO - Missing keywords from Resume: ['machine learning', 'sql', 'docker']
+2025-04-30 09:55:19,412 - INFO - 127.0.0.1 - - [30/Apr/2025 09:55:19] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 09:55:30,593 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 09:55:30,594 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 09:55:30,598 - INFO -  * Restarting with stat
+2025-04-30 09:55:35,573 - WARNING -  * Debugger is active!
+2025-04-30 09:55:35,596 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 09:55:35,892 - INFO - Missing keywords from Resume: ['ui', 'sql', 'machine learning', 'docker', 'ux']
+2025-04-30 09:55:35,894 - INFO - 127.0.0.1 - - [30/Apr/2025 09:55:35] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:05:56,915 - INFO - 127.0.0.1 - - [30/Apr/2025 10:05:56] "[33mOPTIONS /parse HTTP/1.1[0m" 404 -
+2025-04-30 10:07:09,671 - INFO - 127.0.0.1 - - [30/Apr/2025 10:07:09] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 10:07:10,102 - INFO - Resume: resume html | Opportunity: html | Match: 0.0%
+2025-04-30 10:07:10,107 - INFO - 127.0.0.1 - - [30/Apr/2025 10:07:10] "POST /predict HTTP/1.1" 200 -
+2025-04-30 10:08:06,400 - INFO - 127.0.0.1 - - [30/Apr/2025 10:08:06] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 10:08:06,663 - INFO - Resume: html | Opportunity: html | Match: 0.0%
+2025-04-30 10:08:06,663 - INFO - 127.0.0.1 - - [30/Apr/2025 10:08:06] "POST /predict HTTP/1.1" 200 -
+2025-04-30 10:08:22,177 - INFO - Resume: I am skilled in Python, ReactJS, and Django. html | Opportunity: Looking for candidates with skills in Python, ReactJS, Machine Learning, Docker, and SQL. html UI UX | Match: 61.24%
+2025-04-30 10:08:22,178 - INFO - 127.0.0.1 - - [30/Apr/2025 10:08:22] "POST /predict HTTP/1.1" 200 -
+2025-04-30 10:23:23,467 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:23] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 10:23:23,527 - INFO - Resume: html | Opportunity: html | Match: 0.0%
+2025-04-30 10:23:23,528 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:23] "POST /predict HTTP/1.1" 200 -
+2025-04-30 10:23:23,538 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:23] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:23:23,548 - INFO - Missing keywords from Resume: []
+2025-04-30 10:23:23,549 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:23] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:23:23,568 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:23] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 10:23:23,625 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:23] "POST /extract HTTP/1.1" 200 -
+2025-04-30 10:23:23,634 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:23] "POST /extract HTTP/1.1" 200 -
+2025-04-30 10:23:45,558 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:45] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 10:23:45,575 - INFO - Resume: I am skilled in Python, ReactJS, and Django. html | Opportunity: Looking for candidates with skills in Python, ReactJS, Machine Learning, Docker, and SQL. html UI UX | Match: 61.24%
+2025-04-30 10:23:45,576 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:45] "POST /predict HTTP/1.1" 200 -
+2025-04-30 10:23:45,584 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:45] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:23:45,590 - INFO - Missing keywords from Resume: ['ui', 'sql', 'machine learning', 'docker', 'ux']
+2025-04-30 10:23:45,592 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:45] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:23:45,609 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:45] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 10:23:45,623 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:45] "POST /extract HTTP/1.1" 200 -
+2025-04-30 10:23:45,635 - INFO - 127.0.0.1 - - [30/Apr/2025 10:23:45] "POST /extract HTTP/1.1" 200 -
+2025-04-30 10:24:06,362 - INFO - 127.0.0.1 - - [30/Apr/2025 10:24:06] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 10:24:06,375 - INFO - Resume: I am skilled in Python, ReactJS, and Django. html | Opportunity: Looking for candidates with skills in Python, ReactJS, Machine Learning, Docker, and SQL. html UI UX | Match: 61.24%
+2025-04-30 10:24:06,375 - INFO - 127.0.0.1 - - [30/Apr/2025 10:24:06] "POST /predict HTTP/1.1" 200 -
+2025-04-30 10:24:06,387 - INFO - 127.0.0.1 - - [30/Apr/2025 10:24:06] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:24:06,394 - INFO - Missing keywords from Resume: ['ui', 'sql', 'machine learning', 'docker', 'ux']
+2025-04-30 10:24:06,395 - INFO - 127.0.0.1 - - [30/Apr/2025 10:24:06] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:24:06,404 - INFO - 127.0.0.1 - - [30/Apr/2025 10:24:06] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 10:24:06,414 - INFO - 127.0.0.1 - - [30/Apr/2025 10:24:06] "POST /extract HTTP/1.1" 200 -
+2025-04-30 10:24:06,426 - INFO - 127.0.0.1 - - [30/Apr/2025 10:24:06] "POST /extract HTTP/1.1" 200 -
+2025-04-30 10:29:10,060 - INFO - 127.0.0.1 - - [30/Apr/2025 10:29:10] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 10:29:10,110 - INFO - Resume: "I am skilled in Python, ReactJS, and Django. html | Opportunity: Looking for candidates with skills in Python, ReactJS, Machine Learning, Docker, and SQL. html UI UX | Match: 61.24%
+2025-04-30 10:29:10,114 - INFO - 127.0.0.1 - - [30/Apr/2025 10:29:10] "POST /predict HTTP/1.1" 200 -
+2025-04-30 10:29:10,139 - INFO - 127.0.0.1 - - [30/Apr/2025 10:29:10] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:29:10,151 - INFO - Missing keywords from Resume: ['ui', 'sql', 'machine learning', 'docker', 'ux']
+2025-04-30 10:29:10,152 - INFO - 127.0.0.1 - - [30/Apr/2025 10:29:10] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 10:29:10,164 - INFO - 127.0.0.1 - - [30/Apr/2025 10:29:10] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 10:29:10,178 - INFO - 127.0.0.1 - - [30/Apr/2025 10:29:10] "POST /extract HTTP/1.1" 200 -
+2025-04-30 10:29:10,197 - INFO - 127.0.0.1 - - [30/Apr/2025 10:29:10] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:11:59,306 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-30 11:12:01,128 - INFO -  * Restarting with stat
+2025-04-30 11:14:54,189 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 11:14:54,190 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 11:14:54,194 - INFO -  * Restarting with stat
+2025-04-30 11:15:00,082 - WARNING -  * Debugger is active!
+2025-04-30 11:15:00,103 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 11:15:32,700 - INFO - 127.0.0.1 - - [30/Apr/2025 11:15:32] "OPTIONS /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:15:32,792 - INFO - 127.0.0.1 - - [30/Apr/2025 11:15:32] "[35m[1mPOST /extract_text_from_pdf HTTP/1.1[0m" 500 -
+2025-04-30 11:17:24,640 - INFO -  * Detected change in 'C:\\Users\\satheesh k\\OneDrive\\Desktop\\student-profile-matcher\\backend\\app.py', reloading
+2025-04-30 11:17:26,323 - INFO -  * Restarting with stat
+2025-04-30 11:17:33,204 - WARNING -  * Debugger is active!
+2025-04-30 11:17:33,224 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 11:18:09,019 - WARNING - No file selected
+2025-04-30 11:18:09,021 - INFO - 127.0.0.1 - - [30/Apr/2025 11:18:09] "[31m[1mPOST /extract_text_from_pdf HTTP/1.1[0m" 400 -
+2025-04-30 11:18:29,779 - INFO - 127.0.0.1 - - [30/Apr/2025 11:18:29] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:19:00,230 - INFO - 127.0.0.1 - - [30/Apr/2025 11:19:00] "OPTIONS /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:19:00,260 - WARNING - No file part in the request
+2025-04-30 11:19:00,261 - INFO - 127.0.0.1 - - [30/Apr/2025 11:19:00] "[31m[1mPOST /extract_text_from_pdf HTTP/1.1[0m" 400 -
+2025-04-30 11:19:19,477 - INFO - 127.0.0.1 - - [30/Apr/2025 11:19:19] "OPTIONS /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:19:19,487 - WARNING - No file part in the request
+2025-04-30 11:19:19,488 - INFO - 127.0.0.1 - - [30/Apr/2025 11:19:19] "[31m[1mPOST /extract_text_from_pdf HTTP/1.1[0m" 400 -
+2025-04-30 11:24:24,708 - INFO - 127.0.0.1 - - [30/Apr/2025 11:24:24] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:24:45,678 - INFO - 127.0.0.1 - - [30/Apr/2025 11:24:45] "OPTIONS /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:24:45,702 - WARNING - No file part in the request
+2025-04-30 11:24:45,703 - INFO - 127.0.0.1 - - [30/Apr/2025 11:24:45] "[31m[1mPOST /extract_text_from_pdf HTTP/1.1[0m" 400 -
+2025-04-30 11:25:27,585 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:27] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:25:36,017 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:36] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:25:37,990 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:37] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 11:25:38,048 - INFO - Resume:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Opportunity: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Cut design time by 50% by developing an NLP tool that converts natural language into ER diagrams
+and SQL schemas.
+Boosted automation by fine-tuning Google Gemini model and an NLP-to-SQL agent using CrewAI.
+Streamlined deployment from concept to production with seamless MySQL cloud integration.
+ Enhanced visualization using Mermaid.js and React.js for dynamic, user-friendly ER diagrams.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Match: 52.33%
+2025-04-30 11:25:38,052 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:38] "POST /predict HTTP/1.1" 200 -
+2025-04-30 11:25:38,062 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:38] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:25:38,080 - INFO - Missing keywords from Resume: ['git', 'flask', 'c', 'nlp', 'css', 'mysql', 'reactjs', 'javascript', 'html', 'express.js', 'mongodb', 'postman', 'node.js']
+2025-04-30 11:25:38,081 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:38] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:25:38,089 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:38] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 11:25:38,128 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:38] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:25:38,151 - INFO - 127.0.0.1 - - [30/Apr/2025 11:25:38] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:26:06,606 - INFO - 127.0.0.1 - - [30/Apr/2025 11:26:06] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 11:26:06,655 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Cut design time by 50% by developing an NLP tool that converts natural language into ER diagrams
+and SQL schemas.
+Boosted automation by fine-tuning Google Gemini model and an NLP-to-SQL agent using CrewAI.
+Streamlined deployment from concept to production with seamless MySQL cloud integration.
+ Enhanced visualization using Mermaid.js and React.js for dynamic, user-friendly ER diagrams.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 52.33%
+2025-04-30 11:26:06,656 - INFO - 127.0.0.1 - - [30/Apr/2025 11:26:06] "POST /predict HTTP/1.1" 200 -
+2025-04-30 11:26:06,667 - INFO - 127.0.0.1 - - [30/Apr/2025 11:26:06] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:26:06,681 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 11:26:06,683 - INFO - 127.0.0.1 - - [30/Apr/2025 11:26:06] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:26:06,691 - INFO - 127.0.0.1 - - [30/Apr/2025 11:26:06] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 11:26:06,709 - INFO - 127.0.0.1 - - [30/Apr/2025 11:26:06] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:26:06,741 - INFO - 127.0.0.1 - - [30/Apr/2025 11:26:06] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:31:17,948 - INFO - 127.0.0.1 - - [30/Apr/2025 11:31:17] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 11:31:17,985 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Cut design time by 50% by developing an NLP tool that converts natural language into ER diagrams
+and SQL schemas.
+Boosted automation by fine-tuning Google Gemini model and an NLP-to-SQL agent using CrewAI.
+Streamlined deployment from concept to production with seamless MySQL cloud integration.
+ Enhanced visualization using Mermaid.js and React.js for dynamic, user-friendly ER diagrams.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 52.33%
+2025-04-30 11:31:17,986 - INFO - 127.0.0.1 - - [30/Apr/2025 11:31:17] "POST /predict HTTP/1.1" 200 -
+2025-04-30 11:31:18,000 - INFO - 127.0.0.1 - - [30/Apr/2025 11:31:18] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:31:18,015 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 11:31:18,015 - INFO - 127.0.0.1 - - [30/Apr/2025 11:31:18] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:34:58,560 - INFO - 127.0.0.1 - - [30/Apr/2025 11:34:58] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:35:09,202 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:09] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:35:11,687 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 11:35:11,716 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 51.56%
+2025-04-30 11:35:11,717 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:11] "POST /predict HTTP/1.1" 200 -
+2025-04-30 11:35:11,726 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:11] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:35:11,739 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 11:35:11,740 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:11] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:35:11,748 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:11] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 11:35:11,763 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:11] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:35:11,794 - INFO - 127.0.0.1 - - [30/Apr/2025 11:35:11] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:53:48,786 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:48] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:53:56,184 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:56] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 11:53:58,271 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:58] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 11:53:58,335 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 51.56%
+2025-04-30 11:53:58,336 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:58] "POST /predict HTTP/1.1" 200 -
+2025-04-30 11:53:58,346 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:58] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:53:58,359 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 11:53:58,360 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:58] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 11:53:58,368 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:58] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 11:53:58,383 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:58] "POST /extract HTTP/1.1" 200 -
+2025-04-30 11:53:58,413 - INFO - 127.0.0.1 - - [30/Apr/2025 11:53:58] "POST /extract HTTP/1.1" 200 -
+2025-04-30 12:04:21,888 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:21] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 12:04:30,924 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:30] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 12:04:34,204 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:34] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 12:04:34,355 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Cut design time by 50% by developing an NLP tool that converts natural language into ER diagrams
+and SQL schemas.
+Boosted automation by fine-tuning Google Gemini model and an NLP-to-SQL agent using CrewAI.
+Streamlined deployment from concept to production with seamless MySQL cloud integration.
+ Enhanced visualization using Mermaid.js and React.js for dynamic, user-friendly ER diagrams.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 52.33%
+2025-04-30 12:04:34,360 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:34] "POST /predict HTTP/1.1" 200 -
+2025-04-30 12:04:34,372 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:34] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 12:04:34,387 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 12:04:34,388 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:34] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 12:04:34,397 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:34] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 12:04:34,424 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:34] "POST /extract HTTP/1.1" 200 -
+2025-04-30 12:04:34,453 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:34] "POST /extract HTTP/1.1" 200 -
+2025-04-30 12:04:47,120 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:47] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 12:04:47,156 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Cut design time by 50% by developing an NLP tool that converts natural language into ER diagrams
+and SQL schemas.
+Boosted automation by fine-tuning Google Gemini model and an NLP-to-SQL agent using CrewAI.
+Streamlined deployment from concept to production with seamless MySQL cloud integration.
+ Enhanced visualization using Mermaid.js and React.js for dynamic, user-friendly ER diagrams.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 52.33%
+2025-04-30 12:04:47,157 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:47] "POST /predict HTTP/1.1" 200 -
+2025-04-30 12:04:47,170 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:47] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 12:04:47,183 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 12:04:47,185 - INFO - 127.0.0.1 - - [30/Apr/2025 12:04:47] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 13:49:26,842 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 13:49:26,842 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 13:49:26,847 - INFO -  * Restarting with stat
+2025-04-30 13:49:32,017 - WARNING -  * Debugger is active!
+2025-04-30 13:49:32,030 - INFO -  * Debugger PIN: 126-433-147
+2025-04-30 13:50:13,307 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:13] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 13:50:19,238 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:19] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 13:50:20,747 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:20] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 13:50:20,782 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 51.56%
+2025-04-30 13:50:20,784 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:20] "POST /predict HTTP/1.1" 200 -
+2025-04-30 13:50:20,792 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:20] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 13:50:20,810 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 13:50:20,811 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:20] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 13:50:20,822 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:20] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 13:50:20,855 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:20] "POST /extract HTTP/1.1" 200 -
+2025-04-30 13:50:20,885 - INFO - 127.0.0.1 - - [30/Apr/2025 13:50:20] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:01:16,271 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:16] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 14:01:27,287 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:27] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 14:01:29,145 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:29] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 14:01:29,256 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 51.56%
+2025-04-30 14:01:29,258 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:29] "POST /predict HTTP/1.1" 200 -
+2025-04-30 14:01:29,272 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:29] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:01:29,288 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 14:01:29,290 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:29] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:01:29,301 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:29] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 14:01:29,317 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:29] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:01:29,348 - INFO - 127.0.0.1 - - [30/Apr/2025 14:01:29] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:07:12,883 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:12] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 14:07:20,064 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:20] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 14:07:22,609 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:22] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 14:07:22,641 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 51.56%
+2025-04-30 14:07:22,642 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:22] "POST /predict HTTP/1.1" 200 -
+2025-04-30 14:07:22,650 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:22] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:07:22,666 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 14:07:22,667 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:22] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:07:22,676 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:22] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 14:07:22,691 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:22] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:07:22,725 - INFO - 127.0.0.1 - - [30/Apr/2025 14:07:22] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:08:28,082 - INFO - 127.0.0.1 - - [30/Apr/2025 14:08:28] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 14:08:28,114 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 51.56%
+2025-04-30 14:08:28,115 - INFO - 127.0.0.1 - - [30/Apr/2025 14:08:28] "POST /predict HTTP/1.1" 200 -
+2025-04-30 14:08:28,126 - INFO - 127.0.0.1 - - [30/Apr/2025 14:08:28] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:08:28,141 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 14:08:28,142 - INFO - 127.0.0.1 - - [30/Apr/2025 14:08:28] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:14:05,934 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:05] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 14:14:11,078 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:11] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 14:14:16,161 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:16] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 14:14:16,192 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity:   
+Rubrik
+ 
+is
+ 
+seeking
+ 
+a
+ 
+skilled
+ 
+Enterprise
+ 
+Integrations
+ 
+(EI)
+ 
+Engineer
+ 
+apprentice
+ 
+reporting
+ 
+to
+ 
+the
+ 
+Manager
+ 
+of
+ 
+Enterprise
+ 
+Integrations
+ 
+&
+ 
+Intelligent
+ 
+Automations.
+ 
+As
+ 
+an
+ 
+EI
+ 
+Engineer
+ 
+apprentice
+,
+ 
+you
+ 
+will
+ 
+work
+ 
+on
+ 
+real-time
+ 
+REST
+ 
+API
+ 
+development
+ 
+and
+ 
+data
+ 
+integrations
+ 
+involving
+ 
+scheduled
+ 
+transfers
+ 
+from
+ 
+key
+ 
+SaaS
+ 
+systems
+ 
+such
+ 
+as
+ 
+NetSuite,
+ 
+Snowflake,
+ 
+Workday,
+ 
+and
+ 
+Salesforce.com.
+ 
+You
+ 
+will
+ 
+also
+ 
+be
+ 
+a
+ 
+key
+ 
+team
+ 
+member
+ 
+working
+ 
+with
+ 
+Enterprise
+ 
+Integrations
+ 
+teams
+ 
+to
+ 
+deliver
+ 
+Rubrik
+ 
+IT
+ 
+project
+ 
+demand
+ 
+in
+ 
+an
+ 
+agile
+ 
+manner.
+ 
+ 
+Roles
+ 
+&
+ 
+Responsibilities:
+ 
+ 
+\u25cf
+ 
+Work
+ 
+on
+ 
+basic
+ 
+to
+ 
+moderate
+ 
+complexity
+ 
+integrations
+ 
+and
+ 
+associated
+ 
+tasks
+ 
+ 
+\u25cf
+ 
+Documenting
+ 
+every
+ 
+part
+ 
+of
+ 
+the
+ 
+development
+ 
+process
+ 
+for
+ 
+further
+ 
+work
+ 
+and
+ 
+maintenance
+ 
+\u25cf
+ 
+Performing
+ 
+coding
+ 
+assignments
+ 
+ 
+\u25cf
+ 
+Providing
+ 
+regular
+ 
+updates
+ 
+to
+ 
+the
+ 
+senior
+ 
+team
+ 
+members
+ 
+\u25cf
+ 
+Working
+ 
+with
+ 
+the
+ 
+Enterprise
+ 
+Integrations
+ 
+team
+ 
+to
+ 
+unblock
+ 
+deliverables
+ 
+\u25cf
+ 
+Monitor
+ 
+Integration
+ 
+Logs
+ 
+ 
+\u25cf
+ 
+Assist
+ 
+in
+ 
+Mulesoft
+ 
+Integration
+ 
+Development
+ 
+\u25cf
+ 
+Testing
+ 
+and
+ 
+Troubleshooting
+ 
+\u25cf
+ 
+Adapt
+ 
+and
+ 
+learn
+ 
+new
+ 
+iPaaS,
+ 
+Automation,
+ 
+etc,
+ 
+tools
+ 
+as
+ 
+per
+ 
+the
+ 
+organization's
+ 
+requirements
+ 
+Key
+ 
+Qualification:
+ 
+ 
+\u25cf
+ 
+A
+ 
+Bachelor’s
+ 
+Degree
+ 
+in
+ 
+Computer/Information
+ 
+Technology
+ 
+is
+ 
+preferred
+ 
+\u25cf
+ 
+Strong
+ 
+Communication
+ 
+Skills
+ 
+\u25cf
+ 
+Good
+ 
+with
+ 
+Documentation
+ 
+\u25cf
+ 
+Good
+ 
+Analytical
+ 
+&
+ 
+Logical
+ 
+Understanding
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+Anypoint
+ 
+Studio
+ 
+IDE/similar
+ 
+IDE
+ 
+for
+ 
+developing
+ 
+applications
+ 
+is
+ 
+a
+ 
+huge
+ 
+plus
+ 
+\u25cf
+ 
+Basic
+ 
+Programming
+ 
+Knowledge
+ 
+(Java,
+ 
+Python,
+ 
+SQL,
+ 
+etc.)
+ 
+\u25cf
+ 
+Data
+ 
+Formats:
+ 
+Understanding
+ 
+of
+ 
+data
+ 
+formats
+ 
+like
+ 
+XML,
+ 
+JSON,
+ 
+and
+ 
+CSV
+ 
+\u25cf
+ 
+Enterprise
+ 
+Integration
+ 
+Technologies:
+ 
+A
+ 
+desire
+ 
+to
+ 
+learn
+ 
+and
+ 
+grow
+ 
+in
+ 
+the
+ 
+field
+ 
+of
+ 
+integration
+ 
+technologies
+ 
+and
+ 
+iPaaS
+ 
+(Integration
+ 
+Platform
+ 
+as
+ 
+a
+ 
+Service)
+ 
+\u25cf
+ 
+Problem-solving:
+ 
+Ability
+ 
+to
+ 
+identify
+ 
+and
+ 
+resolve
+ 
+technical
+ 
+issues
+ 
+\u25cf
+ 
+GitHub:
+ 
+Optional
+ 
+knowledge
+ 
+of
+ 
+GitHub
+ 
+for
+ 
+version
+ 
+control
+ 
+\u25cf
+ 
+Familiarity
+ 
+with
+ 
+the
+ 
+API
+ 
+concepts
+ 
+and
+ 
+REST
+ 
+principles
+ 
+
+ | Match: 51.56%
+2025-04-30 14:14:16,193 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:16] "POST /predict HTTP/1.1" 200 -
+2025-04-30 14:14:16,204 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:16] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:14:16,219 - INFO - Missing keywords from Resume: ['snowflake']
+2025-04-30 14:14:16,220 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:16] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:14:16,231 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:16] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 14:14:16,250 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:16] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:14:16,285 - INFO - 127.0.0.1 - - [30/Apr/2025 14:14:16] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:31:19,290 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:19] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 14:31:19,463 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity: Job Description
+Assist in designing and developing RESTful APIs and backend services
+Write clean, maintainable, and efficient code
+Support integration with third-party services and internal systems
+Work with databases (SQL/NoSQL) to design and manage data schemas
+Participate in code reviews and contribute to architectural decisions
+Help identify performance bottlenecks and optimize application performance
+Collaborate with frontend developers, product managers, and QA teams
+Qualifications
+Currently pursuing or recently completed a degree in Computer Science, Engineering or a      related field
+Familiarity with backend languages like Node.js or Java
+Understanding of databases and RESTful API development
+Basic knowledge of version control systems (Git)
+Strong problem-solving skills and eagerness to learn
+Good communication and teamwork abilities | Match: 59.79%
+2025-04-30 14:31:19,476 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:19] "POST /predict HTTP/1.1" 200 -
+2025-04-30 14:31:19,488 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:19] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:31:19,509 - INFO - Missing keywords from Resume: []
+2025-04-30 14:31:19,510 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:19] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:31:19,548 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:19] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 14:31:19,592 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:19] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:31:50,995 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:50] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 14:31:51,032 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Built scalable backend services in Python and Flask for converting natural language to ER diagrams
+and SQL schemas.
+Integrated AI models (Google Gemini) with RESTful APIs for dynamic schema generation.
+Ensured database reliability and cloud-based MySQL integration, improving deployment speed and
+system stability.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, Python, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity: Job Description
+Assist in designing and developing RESTful APIs and backend services
+Write clean, maintainable, and efficient code
+Support integration with third-party services and internal systems
+Work with databases (SQL/NoSQL) to design and manage data schemas
+Participate in code reviews and contribute to architectural decisions
+Help identify performance bottlenecks and optimize application performance
+Collaborate with frontend developers, product managers, and QA teams
+Qualifications
+Currently pursuing or recently completed a degree in Computer Science, Engineering or a      related field
+Familiarity with backend languages like Node.js or Java
+Understanding of databases and RESTful API development
+Basic knowledge of version control systems (Git)
+Strong problem-solving skills and eagerness to learn
+Good communication and teamwork abilities | Match: 59.79%
+2025-04-30 14:31:51,033 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:51] "POST /predict HTTP/1.1" 200 -
+2025-04-30 14:31:51,042 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:51] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:31:51,054 - INFO - Missing keywords from Resume: []
+2025-04-30 14:31:51,055 - INFO - 127.0.0.1 - - [30/Apr/2025 14:31:51] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:32:05,603 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:05] "POST /extract_text_from_pdf HTTP/1.1" 200 -
+2025-04-30 14:32:10,052 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:10] "OPTIONS /predict HTTP/1.1" 200 -
+2025-04-30 14:32:10,093 - INFO - Resume: SATHEESH K
+satheeshk.netlify.appgithub.com/satheesh1022005
+linkedin.com/in/-satheesh-k
+leetcode.com/satheesh1022005
+hackerrank.com/satheesh1022005+91 8489402448
+satheesh1022005@gmail.com
+TECHNICAL SKILLS
+PROJECTS
+NLP-Driven Database DesignerPython, MySQL, Express.js, React.js, Node.js, Flask, Gemini AI[Link]
+Cut design time by 50% by developing an NLP tool that converts natural language into ER diagrams
+and SQL schemas.
+Boosted automation by fine-tuning Google Gemini model and an NLP-to-SQL agent using CrewAI.
+Streamlined deployment from concept to production with seamless MySQL cloud integration.
+ Enhanced visualization using Mermaid.js and React.js for dynamic, user-friendly ER diagrams.
+EDUCATION
+Kongu Engineering College
+B.E in Computer Science and Design 2026
+CGPA:8.73(till 5th semaster)
+G.H.S.S Veerapandi, Tirupur
+Class 122022
+Percentage: 85.33%
+ACHIEVEMENTS
+ • Won 4 coding competitions– 3 at outer colleges and 1 at inter-college contests. 
+ • 1st Place- 30-hour KEC Hackathon for developing a Bus Management System.
+ • 1st Place- Inter-College Thinkathon for creating an NLP-to-SQL bot.
+ • 3rd Place- 24-hour GDSC Hackathon for building an Electricity Monitoring System.
+ • Solved 400+ coding problems across LeetCode, GFG, and Coding Ninjas.
+ • Leadership: Serving as Joint Treasurer of CDCC (Coding Club); previously Coordinator.
+ • Organized 10+ coding contests and a 24-hour hackathon, fostering competitive coding culture
+ • Top 5% Student Award for Academic Excellence (2023-2024)Programming Languages: C, Java, JavaScript, SQL
+Data Structures, OOPs, RESTful API, Web Socket, Version Control(Git, GitHub)
+Database: MySQL, MongoDB
+Web Technologies: HTML, CSS
+Frameworks and libraries: Reactjs, Nodejs, Express, flask
+Developer Tools: VS code, IntelliJ IDEA, Postman
+ SQL Lab for College DBMS Curriculum  MERN stack, Python, Flask, Google Gemini [Link]
+Led development of an interactive SQL learning platform for the DBMS laboratory curriculum.
+Implemented RBAC for secure, hierarchical account management, streamlining user workflows.
+Reduced server load by 70%, using AlaSQL for in-browser SQL execution.
+Developed NLP-based doubt clearing with Google Gemini 1.5 Pro Flash, reducing faculty workload by
+40%
+ AYUSH Startup Portal MERN stack, Python, Flask, Google Gemini [Link]
+Led the development of the AYUSH Startup Portal, a web-app designed for the Smart India Hackathon
+Implemented automated document verification and real-time feedback features with MERN stack. 
+Achieved a top 50 ranking in the Smart India Hackathon within the college.PROFESSIONAL SUMMARY
+Engineering mindset with a passion for software development. Built an AI-powered database designer
+automating schema generation from natural language. Proven problem-solver with multiple hackathon
+wins and tech leadership. Seeking a Software Developer role to build scalable, impactful solutions.
+ | Opportunity: Job Description
+Assist in designing and developing RESTful APIs and backend services
+Write clean, maintainable, and efficient code
+Support integration with third-party services and internal systems
+Work with databases (SQL/NoSQL) to design and manage data schemas
+Participate in code reviews and contribute to architectural decisions
+Help identify performance bottlenecks and optimize application performance
+Collaborate with frontend developers, product managers, and QA teams
+Qualifications
+Currently pursuing or recently completed a degree in Computer Science, Engineering or a      related field
+Familiarity with backend languages like Node.js or Java
+Understanding of databases and RESTful API development
+Basic knowledge of version control systems (Git)
+Strong problem-solving skills and eagerness to learn
+Good communication and teamwork abilities | Match: 64.09%
+2025-04-30 14:32:10,093 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:10] "POST /predict HTTP/1.1" 200 -
+2025-04-30 14:32:10,104 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:10] "OPTIONS /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:32:10,118 - INFO - Missing keywords from Resume: []
+2025-04-30 14:32:10,119 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:10] "POST /missing_keywords HTTP/1.1" 200 -
+2025-04-30 14:32:10,128 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:10] "OPTIONS /extract HTTP/1.1" 200 -
+2025-04-30 14:32:10,150 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:10] "POST /extract HTTP/1.1" 200 -
+2025-04-30 14:32:10,165 - INFO - 127.0.0.1 - - [30/Apr/2025 14:32:10] "POST /extract HTTP/1.1" 200 -
+2025-04-30 20:11:12,163 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 20:11:12,164 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 20:11:12,166 - INFO -  * Restarting with stat
+2025-04-30 20:11:15,936 - WARNING -  * Debugger is active!
+2025-04-30 20:11:15,947 - INFO -  * Debugger PIN: 119-933-202
+2025-04-30 20:29:41,339 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 20:29:41,340 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 20:29:41,342 - INFO -  * Restarting with stat
+2025-04-30 20:29:44,770 - WARNING -  * Debugger is active!
+2025-04-30 20:29:44,777 - INFO -  * Debugger PIN: 621-696-397
